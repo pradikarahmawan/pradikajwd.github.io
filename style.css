@@ -1,0 +1,14 @@
+.jumbotron {
+  background-image: url(img/alam.jpg);
+  background-size: cover;
+  height: 800px;
+  text-align: center;
+  color: aliceblue;
+  font-weight: bold;
+}
+#destinasi {
+  background-color: #f3f4f5;
+}
+#pesan {
+  background-color: #f3f4f5;
+}
